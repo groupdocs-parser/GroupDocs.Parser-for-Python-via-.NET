@@ -1,0 +1,247 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+*.dll
+*.dylib
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+*.manifest
+*.spec
+pip-wheel-metadata/
+*.whl
+*.wheel
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+.env/
+ENV/
+env/
+.virtualenv/
+.virtualenvs/
+.pyenv/
+.conda/
+conda-meta/
+conda-env/
+conda/
+
+# Poetry
+.poetry/
+poetry.lock
+
+# Pipenv
+Pipfile.lock
+Pipfile
+
+# Pyenv
+.python-version
+
+# Poetry, Pipenv, Hatch
+.hatch/
+.hatch_env/
+.hatch_cache/
+__pypackages__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Eclipse / PyDev
+.project
+.pydevproject
+.metadata/
+bin/
+
+# Atom
+*.atom-build.json
+atom-workspace/
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Vim
+*.swp
+*.swo
+*.vim
+Session.vim
+viminfo
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Environment files
+.env
+.env.*
+.envrc
+.venv
+.terraform/
+.terraform.lock.hcl
+
+# Test and coverage
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+pytest.xml
+test-results.xml
+*.cover
+*.coverage
+*.db
+*.sqlite
+.coverage.*
+.cache
+nose2-*.xml
+tox.ini
+.tox/
+.nox/
+.pytest_cache/
+.coverage
+coverage.xml
+.coverage.*
+
+# Static analysis
+.mypy_cache/
+.pyright/
+.pylint.d/
+.pyre/
+ruff_cache/
+flake8/
+
+# Logs
+*.log
+logs/
+log/
+debug.log
+
+# Database files
+*.sqlite3
+*.db
+*.sqlite
+
+# Misc
+*.bak
+*.tmp
+*.orig
+*.rej
+*.swp
+*.swo
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.gz
+*.bz2
+*.iso
+*.dmg
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.a
+*.lib
+*.so.*
+*.pid
+*.seed
+*.seed.json
+*.seed.yaml
+*.seed.yml
+*.seed.toml
+
+# Generated documentation
+docs/_build/
+site/
+*.html
+*.pdf
+
+# Build system artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+Makefile.*
+install_manifest.txt
+compile_commands.json
+*.dll
+*.obj
+*.o
+*.a
+*.so
+*.dylib
+*.lib
+
+# Package distribution artifacts
+*.egg-info/
+dist/
+build/
+*.whl
+*.wheel
+*.tgz
+*.tar.gz
+
+# GitHub Actions
+.github/
+
+# Snapshots
+snapshots/
+*.snapshot
+
+# Secrets
+secrets/
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# End of .gitignore
+
+# License files
+.lic
