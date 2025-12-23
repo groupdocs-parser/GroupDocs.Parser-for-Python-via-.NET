@@ -2,19 +2,7 @@
 
 🚀 Welcome to the **GroupDocs.Parser for Python via .NET** repository!  
 
-This repository will soon host a collection of **practical, ready‑to‑run examples** that demonstrate how to use GroupDocs.Parser for Python via .NET in your own applications.  
-
----  
-
-## 📂 Repository Status  
-
-⚠️ This repository is currently **under construction**.  
-We’re working on publishing code samples that will help you:  
-- Get started quickly with using GroupDocs.Parser  
-- Explore both basic and advanced features of the API  
-- Integrate GroupDocs.Parser into your applications  
-
-Stay tuned — examples are **coming soon**! ✨  
+This repository contains runnable Python examples for **GroupDocs.Parser for Python via .NET**.
 
 ---  
 
