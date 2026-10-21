@@ -1,0 +1,5 @@
+# GroupDocs.Parser for Python via .NET examples
+Repo: https://github.com/groupdocs-parser/GroupDocs.Parser-for-Python-via-.NET
+Docs: https://docs.groupdocs.com/parser/python-net/
+Formats: 65+
+Package: groupdocs-parser-net
